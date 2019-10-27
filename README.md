@@ -1,6 +1,6 @@
 # Multi Agent project  
 ### Main idea
-Path planning for cars to kill all enemies as long as avoid obstacles in a given maze. There are 5 problems with different settings. Each problem is setup in a different "Scene" of the unity project.
+Path planning for cars to kill all enemies as long as avoid obstacles in a given maze. There are 5 problems with different settings. Each problem is setup in a different "Scene" of the unity project. The AI strategies are under `MultiAgent project/Assets/Scrips/`.
 
 #### Problem 1: Short range multi agent search
 Setting: the search area is limited within a short range.
