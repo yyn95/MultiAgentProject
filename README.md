@@ -5,7 +5,7 @@ Path planning for cars to kill all enemies as long as avoid obstacles in a given
 #### Problem 1: Short range multi agent search
 Setting: the search area is limited within a short range.
 
-<img src="http://drive.google.com/uc?export=view&id=1YqB1-rNGIk1jzxcB2DTQNQ4AVIGJ-Dwu" alt="problem1">
+<img src="https://drive.google.com/file/d/1YqB1-rNGIk1jzxcB2DTQNQ4AVIGJ-Dwu/view?usp=sharing" alt="problem1">
 
 The left window: from a global camera. The long white line indicates the car and the turret is able to see and attack each other.  
 The right window: from a car camera. The green bar above the car shows its "blood". The number of enemies left to kill is shown on the top of the window.
