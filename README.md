@@ -5,6 +5,7 @@ Path planning for cars to kill all enemies as long as avoid obstacles in a given
 #### Problem 1: Short range multi agent search
 Setting: the search area is limited within a short range.
 
+![problem1](https://drive.google.com/file/d/1HDNaPbqVCCHu6ON1-XfKaYZhfIhyjfYB/view?usp=sharing)
 <img src="https://drive.google.com/file/d/1HDNaPbqVCCHu6ON1-XfKaYZhfIhyjfYB/view?usp=sharing" alt="problem1">
 
 The left window: from a global camera. The long white line indicates the car and the turret is able to see and attack each other.  
